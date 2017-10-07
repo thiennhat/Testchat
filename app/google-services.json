@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "94137942549",
+    "firebase_url": "https://test1-a8ca2.firebaseio.com",
+    "project_id": "test1-a8ca2",
+    "storage_bucket": "test1-a8ca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94137942549:android:c26eeff5518c9278",
+        "android_client_info": {
+          "package_name": "com.techhub.testchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94137942549-gvarrmbhlilfg6eba9uf3535jnh7b6jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techhub.testchat",
+            "certificate_hash": "28768e597571e0367be35cdfa6f43566e0a99874"
+          }
+        },
+        {
+          "client_id": "94137942549-spp57fpo98m1hrq7trpk676lj0vnm141.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHnAM_1D3MkldxwWxxxz1ePDom4nGtP4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94137942549-spp57fpo98m1hrq7trpk676lj0vnm141.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
